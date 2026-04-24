@@ -19,7 +19,7 @@ export default function ListingDetailsScreen() {
       <View style={styles.userContainer}>
         <ListItem
           title={"Mario Andolini"}
-          image={require("../assets/images/mario.png")}
+          image={require("../assets/images/mario.jpg")}
           subTitle={"2 posts this month"}
         />
       </View>
